@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+*.pyc
+intruders/
+profiles.json
+eye_encodings.pickle

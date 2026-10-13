@@ -1,0 +1,1270 @@
+2026-10-13 13:13:01,192 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-10-13 13:13:01,192 - INFO - [33mPress CTRL+C to quit[0m
+2026-10-13 13:13:01,194 - INFO -  * Restarting with stat
+2026-10-13 13:13:01,471 - WARNING -  * Debugger is active!
+2026-10-13 13:13:01,480 - INFO -  * Debugger PIN: 433-048-674
+2026-10-13 13:14:37,315 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-10-13 13:14:37,315 - INFO - [33mPress CTRL+C to quit[0m
+2026-10-13 13:14:37,316 - INFO -  * Restarting with stat
+2026-10-13 13:14:37,614 - WARNING -  * Debugger is active!
+2026-10-13 13:14:37,617 - INFO -  * Debugger PIN: 433-048-674
+2026-10-13 13:17:27,836 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-10-13 13:17:27,836 - INFO - [33mPress CTRL+C to quit[0m
+2026-10-13 13:17:27,837 - INFO -  * Restarting with stat
+2026-10-13 13:17:28,159 - WARNING -  * Debugger is active!
+2026-10-13 13:17:28,161 - INFO -  * Debugger PIN: 433-048-674
+2026-10-13 13:17:45,944 - INFO - 127.0.0.1 - - [13/Oct/2026 13:17:45] "GET / HTTP/1.1" 200 -
+2026-10-13 13:17:46,002 - INFO - 127.0.0.1 - - [13/Oct/2026 13:17:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-13 13:19:18,530 - WARNING - Security Alert: Unknown entity detected with score 0.12
+2026-10-13 13:19:18,530 - INFO - 127.0.0.1 - - [13/Oct/2026 13:19:18] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:19:28,781 - WARNING - Security Alert: Unknown entity detected with score 0.07
+2026-10-13 13:19:28,781 - INFO - 127.0.0.1 - - [13/Oct/2026 13:19:28] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:19:30,233 - WARNING - Security Alert: Unknown entity detected with score 0.05
+2026-10-13 13:19:30,233 - INFO - 127.0.0.1 - - [13/Oct/2026 13:19:30] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:19:31,768 - INFO - Verified Access: User 'jibreil' granted access with score 0.55
+2026-10-13 13:19:31,769 - INFO - 127.0.0.1 - - [13/Oct/2026 13:19:31] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:19:34,503 - INFO - Verified Access: User 'jibreil' granted access with score 0.48
+2026-10-13 13:19:34,503 - INFO - 127.0.0.1 - - [13/Oct/2026 13:19:34] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:19:35,446 - INFO - Verified Access: User 'jibreil' granted access with score 0.30
+2026-10-13 13:19:35,446 - INFO - 127.0.0.1 - - [13/Oct/2026 13:19:35] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:19:36,044 - WARNING - Security Alert: Unknown entity detected with score 0.06
+2026-10-13 13:19:36,044 - INFO - 127.0.0.1 - - [13/Oct/2026 13:19:36] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:19:37,683 - INFO - Verified Access: User 'jibreil' granted access with score 0.14
+2026-10-13 13:19:37,684 - INFO - 127.0.0.1 - - [13/Oct/2026 13:19:37] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:21:35,245 - INFO - Verified Access: User 'jibreil' granted access with score 0.59
+2026-10-13 13:21:35,246 - INFO - 127.0.0.1 - - [13/Oct/2026 13:21:35] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:21:36,535 - INFO - Verified Access: User 'jibreil' granted access with score 0.15
+2026-10-13 13:21:36,535 - INFO - 127.0.0.1 - - [13/Oct/2026 13:21:36] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:21:37,684 - WARNING - Security Alert: Unknown entity detected with score 0.10
+2026-10-13 13:21:37,684 - INFO - 127.0.0.1 - - [13/Oct/2026 13:21:37] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:21:39,159 - INFO - Verified Access: User 'jibreil' granted access with score 0.39
+2026-10-13 13:21:39,159 - INFO - 127.0.0.1 - - [13/Oct/2026 13:21:39] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:22:53,514 - INFO - 127.0.0.1 - - [13/Oct/2026 13:22:53] "GET / HTTP/1.1" 200 -
+2026-10-13 13:22:58,726 - INFO - Verified Access: User 'jibreil' granted access with score 0.40
+2026-10-13 13:22:58,726 - INFO - 127.0.0.1 - - [13/Oct/2026 13:22:58] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:23:00,725 - INFO - Verified Access: User 'jibreil' granted access with score 0.17
+2026-10-13 13:23:00,725 - INFO - 127.0.0.1 - - [13/Oct/2026 13:23:00] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:23:05,597 - INFO - Verified Access: User 'jibreil' granted access with score 0.24
+2026-10-13 13:23:05,597 - INFO - 127.0.0.1 - - [13/Oct/2026 13:23:05] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:23:09,867 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 13:23:09,867 - INFO - 127.0.0.1 - - [13/Oct/2026 13:23:09] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:23:16,523 - WARNING - Security Alert: Unknown entity detected with score 0.07
+2026-10-13 13:23:16,524 - INFO - 127.0.0.1 - - [13/Oct/2026 13:23:16] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:23:20,880 - INFO - Verified Access: User 'jibreil' granted access with score 0.51
+2026-10-13 13:23:20,880 - INFO - 127.0.0.1 - - [13/Oct/2026 13:23:20] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:23:22,835 - INFO - Verified Access: User 'jibreil' granted access with score 0.19
+2026-10-13 13:23:22,836 - INFO - 127.0.0.1 - - [13/Oct/2026 13:23:22] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:23:24,838 - INFO - Verified Access: User 'mohamad' granted access with score 0.49
+2026-10-13 13:23:24,838 - INFO - 127.0.0.1 - - [13/Oct/2026 13:23:24] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:23:26,837 - INFO - Verified Access: User 'mohamad' granted access with score 0.67
+2026-10-13 13:23:26,838 - INFO - 127.0.0.1 - - [13/Oct/2026 13:23:26] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:23:28,831 - INFO - Verified Access: User 'mohamad' granted access with score 0.67
+2026-10-13 13:23:28,831 - INFO - 127.0.0.1 - - [13/Oct/2026 13:23:28] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:23:30,833 - INFO - Verified Access: User 'mohamad' granted access with score 0.63
+2026-10-13 13:23:30,834 - INFO - 127.0.0.1 - - [13/Oct/2026 13:23:30] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:23:32,832 - INFO - Verified Access: User 'mohamad' granted access with score 0.66
+2026-10-13 13:23:32,832 - INFO - 127.0.0.1 - - [13/Oct/2026 13:23:32] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:23:34,836 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 13:23:34,836 - INFO - 127.0.0.1 - - [13/Oct/2026 13:23:34] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:23:40,288 - INFO - Verified Access: User 'jibreil' granted access with score 0.21
+2026-10-13 13:23:40,288 - INFO - 127.0.0.1 - - [13/Oct/2026 13:23:40] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:25:10,068 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\face ID\\app.py', reloading
+2026-10-13 13:25:10,152 - INFO -  * Restarting with stat
+2026-10-13 13:25:10,525 - WARNING -  * Debugger is active!
+2026-10-13 13:25:10,527 - INFO -  * Debugger PIN: 433-048-674
+2026-10-13 13:25:40,901 - INFO - 127.0.0.1 - - [13/Oct/2026 13:25:40] "GET / HTTP/1.1" 200 -
+2026-10-13 13:25:51,522 - INFO - Verified Access: User 'jibreil' granted access with score 0.55
+2026-10-13 13:25:51,522 - INFO - 127.0.0.1 - - [13/Oct/2026 13:25:51] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:25:51,777 - INFO - Verified Access: User 'jibreil' granted access with score 0.51
+2026-10-13 13:25:51,777 - INFO - 127.0.0.1 - - [13/Oct/2026 13:25:51] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:25:53,517 - INFO - Verified Access: User 'jibreil' granted access with score 0.22
+2026-10-13 13:25:53,517 - INFO - 127.0.0.1 - - [13/Oct/2026 13:25:53] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:25:55,519 - INFO - Verified Access: User 'jibreil' granted access with score 0.36
+2026-10-13 13:25:55,519 - INFO - 127.0.0.1 - - [13/Oct/2026 13:25:55] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:25:57,521 - INFO - Verified Access: User 'jibreil' granted access with score 0.28
+2026-10-13 13:25:57,521 - INFO - 127.0.0.1 - - [13/Oct/2026 13:25:57] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:25:59,518 - INFO - Verified Access: User 'jibreil' granted access with score 0.26
+2026-10-13 13:25:59,519 - INFO - 127.0.0.1 - - [13/Oct/2026 13:25:59] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:26:01,517 - INFO - Verified Access: User 'jibreil' granted access with score 0.49
+2026-10-13 13:26:01,517 - INFO - 127.0.0.1 - - [13/Oct/2026 13:26:01] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:26:03,539 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 13:26:03,540 - INFO - 127.0.0.1 - - [13/Oct/2026 13:26:03] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:26:15,476 - INFO - Verified Access: User 'jibreil' granted access with score 0.45
+2026-10-13 13:26:15,477 - INFO - 127.0.0.1 - - [13/Oct/2026 13:26:15] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:26:45,123 - INFO - 127.0.0.1 - - [13/Oct/2026 13:26:45] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:27:11,449 - INFO - 127.0.0.1 - - [13/Oct/2026 13:27:11] "GET / HTTP/1.1" 200 -
+2026-10-13 13:29:38,424 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\face ID\\app.py', reloading
+2026-10-13 13:29:38,501 - INFO -  * Restarting with stat
+2026-10-13 13:29:38,842 - WARNING -  * Debugger is active!
+2026-10-13 13:29:38,844 - INFO -  * Debugger PIN: 433-048-674
+2026-10-13 13:29:51,065 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:51] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:51,961 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:51] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:52,119 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:52] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:52,296 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:52] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:52,455 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:52] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:52,616 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:52] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:53,113 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:53] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:53,518 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:53] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:53,896 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:53] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:54,255 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:54] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:54,599 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:54] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:54,966 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:54] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:55,273 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:55] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:55,503 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:55] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:55,694 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:55] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:55,880 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:55] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:56,064 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:56] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:56,249 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:56] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:56,439 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:56] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:56,624 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:56] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:56,806 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:56] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:56,984 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:56] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:57,166 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:57] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:57,353 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:57] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:29:57,519 - INFO - 127.0.0.1 - - [13/Oct/2026 13:29:57] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:30:30,832 - INFO - 127.0.0.1 - - [13/Oct/2026 13:30:30] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:30:32,213 - INFO - 127.0.0.1 - - [13/Oct/2026 13:30:32] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:30:32,816 - INFO - 127.0.0.1 - - [13/Oct/2026 13:30:32] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:30:33,207 - INFO - 127.0.0.1 - - [13/Oct/2026 13:30:33] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:30:33,389 - INFO - 127.0.0.1 - - [13/Oct/2026 13:30:33] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:31:50,683 - INFO - 127.0.0.1 - - [13/Oct/2026 13:31:50] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:33:26,172 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-10-13 13:33:26,172 - INFO - [33mPress CTRL+C to quit[0m
+2026-10-13 13:33:26,172 - INFO -  * Restarting with stat
+2026-10-13 13:33:26,478 - WARNING -  * Debugger is active!
+2026-10-13 13:33:26,480 - INFO -  * Debugger PIN: 433-048-674
+2026-10-13 13:33:34,512 - INFO - 127.0.0.1 - - [13/Oct/2026 13:33:34] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:33:35,896 - INFO - 127.0.0.1 - - [13/Oct/2026 13:33:35] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:33:36,334 - INFO - 127.0.0.1 - - [13/Oct/2026 13:33:36] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:33:36,802 - INFO - 127.0.0.1 - - [13/Oct/2026 13:33:36] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:33:36,968 - INFO - 127.0.0.1 - - [13/Oct/2026 13:33:36] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:33:37,160 - INFO - 127.0.0.1 - - [13/Oct/2026 13:33:37] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:33:37,327 - INFO - 127.0.0.1 - - [13/Oct/2026 13:33:37] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:33:37,472 - INFO - 127.0.0.1 - - [13/Oct/2026 13:33:37] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:33:37,647 - INFO - 127.0.0.1 - - [13/Oct/2026 13:33:37] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:33:37,786 - INFO - 127.0.0.1 - - [13/Oct/2026 13:33:37] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:33:38,064 - INFO - 127.0.0.1 - - [13/Oct/2026 13:33:38] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:33:38,223 - INFO - 127.0.0.1 - - [13/Oct/2026 13:33:38] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:34:50,253 - INFO - 127.0.0.1 - - [13/Oct/2026 13:34:50] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:34:50,461 - INFO - 127.0.0.1 - - [13/Oct/2026 13:34:50] "GET /intruders/intruder_20261013_132603.jpg HTTP/1.1" 200 -
+2026-10-13 13:34:50,464 - INFO - 127.0.0.1 - - [13/Oct/2026 13:34:50] "GET /intruders/intruder_20261013_131930.jpg HTTP/1.1" 200 -
+2026-10-13 13:34:50,466 - INFO - 127.0.0.1 - - [13/Oct/2026 13:34:50] "GET /intruders/intruder_20261013_132309.jpg HTTP/1.1" 200 -
+2026-10-13 13:34:50,472 - INFO - 127.0.0.1 - - [13/Oct/2026 13:34:50] "GET /intruders/intruder_20261013_131936.jpg HTTP/1.1" 200 -
+2026-10-13 13:34:50,484 - INFO - 127.0.0.1 - - [13/Oct/2026 13:34:50] "GET /intruders/intruder_20261013_132137.jpg HTTP/1.1" 200 -
+2026-10-13 13:34:50,492 - INFO - 127.0.0.1 - - [13/Oct/2026 13:34:50] "GET /intruders/intruder_snapshot_20261012_140600.jpg HTTP/1.1" 200 -
+2026-10-13 13:34:50,536 - INFO - 127.0.0.1 - - [13/Oct/2026 13:34:50] "GET /intruders/intruder_snapshot_20261012_141131.jpg HTTP/1.1" 200 -
+2026-10-13 13:34:50,558 - INFO - 127.0.0.1 - - [13/Oct/2026 13:34:50] "GET /intruders/intruder_snapshot_20261012_141711.jpg HTTP/1.1" 200 -
+2026-10-13 13:34:50,561 - INFO - 127.0.0.1 - - [13/Oct/2026 13:34:50] "GET /intruders/intruder_20261013_132334.jpg HTTP/1.1" 200 -
+2026-10-13 13:34:50,573 - INFO - 127.0.0.1 - - [13/Oct/2026 13:34:50] "GET /intruders/intruder_20261013_132316.jpg HTTP/1.1" 200 -
+2026-10-13 13:35:23,083 - INFO - 127.0.0.1 - - [13/Oct/2026 13:35:23] "GET / HTTP/1.1" 200 -
+2026-10-13 13:35:30,149 - INFO - Verified Access: User 'jibreil' granted access with score 0.49
+2026-10-13 13:35:30,150 - INFO - 127.0.0.1 - - [13/Oct/2026 13:35:30] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:35:30,266 - INFO - Verified Access: User 'jibreil' granted access with score 0.24
+2026-10-13 13:35:30,267 - INFO - 127.0.0.1 - - [13/Oct/2026 13:35:30] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:35:32,141 - INFO - Verified Access: User 'jibreil' granted access with score 0.24
+2026-10-13 13:35:32,141 - INFO - 127.0.0.1 - - [13/Oct/2026 13:35:32] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:35:34,152 - WARNING - Security Alert: Unknown entity detected with score 0.11
+2026-10-13 13:35:34,152 - INFO - 127.0.0.1 - - [13/Oct/2026 13:35:34] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:42:30,228 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:30] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:42:30,239 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:30] "[36mGET /intruders/intruder_snapshot_20261012_141711.jpg HTTP/1.1[0m" 304 -
+2026-10-13 13:42:30,240 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:30] "[36mGET /intruders/intruder_snapshot_20261012_141131.jpg HTTP/1.1[0m" 304 -
+2026-10-13 13:42:30,241 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:30] "GET /intruders/intruder_20261013_133534.jpg HTTP/1.1" 200 -
+2026-10-13 13:42:30,245 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:30] "[36mGET /intruders/intruder_20261013_132603.jpg HTTP/1.1[0m" 304 -
+2026-10-13 13:42:30,246 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:30] "[36mGET /intruders/intruder_snapshot_20261012_140600.jpg HTTP/1.1[0m" 304 -
+2026-10-13 13:42:30,248 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:30] "[36mGET /intruders/intruder_20261013_132334.jpg HTTP/1.1[0m" 304 -
+2026-10-13 13:42:30,250 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:30] "[36mGET /intruders/intruder_20261013_132316.jpg HTTP/1.1[0m" 304 -
+2026-10-13 13:42:30,253 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:30] "[36mGET /intruders/intruder_20261013_132309.jpg HTTP/1.1[0m" 304 -
+2026-10-13 13:42:30,257 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:30] "[36mGET /intruders/intruder_20261013_132137.jpg HTTP/1.1[0m" 304 -
+2026-10-13 13:42:30,258 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:30] "[36mGET /intruders/intruder_20261013_131936.jpg HTTP/1.1[0m" 304 -
+2026-10-13 13:42:31,705 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:31] "GET / HTTP/1.1" 200 -
+2026-10-13 13:42:41,863 - INFO - Verified Access: User 'jibreil' granted access with score 0.42
+2026-10-13 13:42:41,863 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:41] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:42:43,863 - INFO - Verified Access: User 'jibreil' granted access with score 0.48
+2026-10-13 13:42:43,863 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:43] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:42:45,860 - INFO - Verified Access: User 'jibreil' granted access with score 0.35
+2026-10-13 13:42:45,861 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:45] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:42:47,861 - INFO - Verified Access: User 'jibreil' granted access with score 0.43
+2026-10-13 13:42:47,861 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:47] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:42:49,907 - INFO - Verified Access: User 'jibreil' granted access with score 0.45
+2026-10-13 13:42:49,908 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:49] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:42:51,664 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:51] "GET /admin HTTP/1.1" 200 -
+2026-10-13 13:42:51,676 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:51] "[36mGET /intruders/intruder_snapshot_20261012_141711.jpg HTTP/1.1[0m" 304 -
+2026-10-13 13:42:51,677 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:51] "[36mGET /intruders/intruder_snapshot_20261012_141131.jpg HTTP/1.1[0m" 304 -
+2026-10-13 13:42:51,680 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:51] "[36mGET /intruders/intruder_snapshot_20261012_140600.jpg HTTP/1.1[0m" 304 -
+2026-10-13 13:42:51,682 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:51] "[36mGET /intruders/intruder_20261013_133534.jpg HTTP/1.1[0m" 304 -
+2026-10-13 13:42:51,684 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:51] "[36mGET /intruders/intruder_20261013_132603.jpg HTTP/1.1[0m" 304 -
+2026-10-13 13:42:51,687 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:51] "[36mGET /intruders/intruder_20261013_132334.jpg HTTP/1.1[0m" 304 -
+2026-10-13 13:42:51,688 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:51] "[36mGET /intruders/intruder_20261013_132316.jpg HTTP/1.1[0m" 304 -
+2026-10-13 13:42:51,693 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:51] "[36mGET /intruders/intruder_20261013_132309.jpg HTTP/1.1[0m" 304 -
+2026-10-13 13:42:51,695 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:51] "[36mGET /intruders/intruder_20261013_132137.jpg HTTP/1.1[0m" 304 -
+2026-10-13 13:42:51,697 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:51] "[36mGET /intruders/intruder_20261013_131936.jpg HTTP/1.1[0m" 304 -
+2026-10-13 13:42:51,906 - INFO - Verified Access: User 'jibreil' granted access with score 0.46
+2026-10-13 13:42:51,907 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:51] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:42:53,863 - INFO - Verified Access: User 'jibreil' granted access with score 0.49
+2026-10-13 13:42:53,864 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:53] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:42:55,861 - INFO - Verified Access: User 'jibreil' granted access with score 0.23
+2026-10-13 13:42:55,861 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:55] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:42:57,860 - INFO - Verified Access: User 'jibreil' granted access with score 0.22
+2026-10-13 13:42:57,860 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:57] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:42:59,862 - INFO - Verified Access: User 'mohamad' granted access with score 0.24
+2026-10-13 13:42:59,862 - INFO - 127.0.0.1 - - [13/Oct/2026 13:42:59] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:43:01,861 - WARNING - Security Alert: Unknown entity detected with score 0.08
+2026-10-13 13:43:01,861 - INFO - 127.0.0.1 - - [13/Oct/2026 13:43:01] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:48:12,078 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\face ID\\services\\biometric.py', reloading
+2026-10-13 13:48:12,159 - INFO -  * Restarting with stat
+2026-10-13 13:48:12,511 - WARNING -  * Debugger is active!
+2026-10-13 13:48:12,513 - INFO -  * Debugger PIN: 433-048-674
+2026-10-13 13:54:06,948 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\face ID\\app.py', reloading
+2026-10-13 13:54:07,018 - INFO -  * Restarting with stat
+2026-10-13 13:54:07,389 - WARNING -  * Debugger is active!
+2026-10-13 13:54:07,391 - INFO -  * Debugger PIN: 433-048-674
+2026-10-13 13:55:05,311 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-10-13 13:55:05,311 - INFO - [33mPress CTRL+C to quit[0m
+2026-10-13 13:55:05,312 - INFO -  * Restarting with stat
+2026-10-13 13:55:05,703 - WARNING -  * Debugger is active!
+2026-10-13 13:55:05,705 - INFO -  * Debugger PIN: 433-048-674
+2026-10-13 13:55:23,393 - INFO - 127.0.0.1 - - [13/Oct/2026 13:55:23] "GET / HTTP/1.1" 200 -
+2026-10-13 13:56:17,383 - INFO - Verified Access: User 'jibreil' granted access with score 0.56
+2026-10-13 13:56:17,383 - INFO - 127.0.0.1 - - [13/Oct/2026 13:56:17] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 13:58:41,585 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\face ID\\services\\biometric.py', reloading
+2026-10-13 13:58:41,663 - INFO -  * Restarting with stat
+2026-10-13 13:58:42,010 - WARNING -  * Debugger is active!
+2026-10-13 13:58:42,013 - INFO -  * Debugger PIN: 433-048-674
+2026-10-13 13:59:07,322 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-10-13 13:59:07,322 - INFO - [33mPress CTRL+C to quit[0m
+2026-10-13 13:59:07,323 - INFO -  * Restarting with stat
+2026-10-13 13:59:07,620 - WARNING -  * Debugger is active!
+2026-10-13 13:59:07,622 - INFO -  * Debugger PIN: 433-048-674
+2026-10-13 13:59:09,369 - INFO - 127.0.0.1 - - [13/Oct/2026 13:59:09] "GET / HTTP/1.1" 200 -
+2026-10-13 13:59:50,595 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 13:59:50,596 - INFO - 127.0.0.1 - - [13/Oct/2026 13:59:50] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:18,679 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:18,680 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:18] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:20,681 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:20,682 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:20] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:22,681 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:22,681 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:22] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:24,686 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:24,686 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:24] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:26,680 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:26,680 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:26] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:28,679 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:28,679 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:28] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:30,687 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:30,687 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:30] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:32,682 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:32,683 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:32] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:34,684 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:34,685 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:34] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:36,686 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:36,687 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:36] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:38,684 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:38,685 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:38] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:40,682 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:40,682 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:40] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:42,682 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:42,682 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:42] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:43,070 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:43,071 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:43] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:44,885 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:44,885 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:44] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:46,688 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:46,688 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:46] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:47,475 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:47,475 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:47] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:47,863 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:47,863 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:47] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:48,077 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:48,077 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:48] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:49,315 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:49,316 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:49] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:49,787 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:49,787 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:49] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:49,982 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:49,982 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:49] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:50,163 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:50,163 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:50] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:50,699 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:50,700 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:50] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:51,261 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:51,261 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:51] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:52,822 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:52,823 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:52] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:00:54,294 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:00:54,295 - INFO - 127.0.0.1 - - [13/Oct/2026 14:00:54] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:03:11,806 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\face ID\\services\\biometric.py', reloading
+2026-10-13 14:03:11,855 - INFO -  * Restarting with stat
+2026-10-13 14:03:12,198 - WARNING -  * Debugger is active!
+2026-10-13 14:03:12,200 - INFO -  * Debugger PIN: 433-048-674
+2026-10-13 14:05:38,497 - INFO - 127.0.0.1 - - [13/Oct/2026 14:05:38] "GET / HTTP/1.1" 200 -
+2026-10-13 14:06:01,194 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-10-13 14:06:01,194 - INFO - [33mPress CTRL+C to quit[0m
+2026-10-13 14:06:01,195 - INFO -  * Restarting with stat
+2026-10-13 14:06:01,501 - WARNING -  * Debugger is active!
+2026-10-13 14:06:01,503 - INFO -  * Debugger PIN: 433-048-674
+2026-10-13 14:06:05,610 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:05] "GET / HTTP/1.1" 200 -
+2026-10-13 14:06:10,274 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:10,275 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:10] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:13,994 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:13,994 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:13] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:14,920 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:14,920 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:14] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:15,565 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:15,566 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:15] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:16,057 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:16,057 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:16] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:16,522 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:16,523 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:16] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:16,938 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:16,938 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:16] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:17,265 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:17,266 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:17] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:17,469 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:17,470 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:17] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:17,696 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:17,696 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:17] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:17,895 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:17,896 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:17] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:18,110 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:18,110 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:18] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:18,336 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:18,337 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:18] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:18,551 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:18,551 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:18] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:18,778 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:18,779 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:18] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:18,985 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:18,986 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:18] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:19,185 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:19,185 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:19] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:19,391 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:19,391 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:19] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:19,569 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:19,569 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:19] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:19,753 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:19,753 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:19] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:19,937 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:19,937 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:19] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:20,145 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:20,145 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:20] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:20,336 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:20,336 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:20] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:20,549 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:20,549 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:20] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:20,723 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:20,724 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:20] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:20,844 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:20,844 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:20] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:23,777 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:23,778 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:23] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:25,783 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:25,783 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:25] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:27,781 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:27,782 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:27] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:29,785 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:29,785 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:29] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:33,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:33,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:33] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:33,302 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:33,303 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:33] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:34,911 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:34,911 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:34] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:35,246 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:35,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:35] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:35,482 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:35,483 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:35] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:35,801 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:35,801 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:35] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:35,976 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:35,977 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:35] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:36,182 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:36,198 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:36] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:37,247 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:37,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:37] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:39,248 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:39,249 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:39] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:41,247 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:41,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:41] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:43,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:43,245 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:43] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:45,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:45,245 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:45] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:47,241 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:47,242 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:47] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:49,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:49,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:49] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:51,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:51,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:51] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:53,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:53,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:53] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:55,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:55,243 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:55] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:57,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:57,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:57] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:06:59,250 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:06:59,250 - INFO - 127.0.0.1 - - [13/Oct/2026 14:06:59] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:01,245 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:01,246 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:01] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:03,247 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:03,248 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:03] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:05,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:05,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:05] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:07,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:07,243 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:07] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:09,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:09,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:09] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:11,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:11,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:11] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:13,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:13,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:13] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:15,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:15,245 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:15] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:17,250 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:17,250 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:17] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:19,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:19,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:19] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:21,261 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:21,262 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:21] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:23,242 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:23,243 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:23] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:25,246 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:25,246 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:25] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:27,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:27,243 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:27] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:29,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:29,243 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:29] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:31,241 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:31,241 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:31] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:33,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:33,245 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:33] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:35,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:35,243 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:35] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:37,251 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:37,251 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:37] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:39,247 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:39,248 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:39] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:41,245 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:41,246 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:41] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:43,246 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:43,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:43] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:45,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:45,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:45] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:47,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:47,245 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:47] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:49,242 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:49,243 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:49] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:51,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:51,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:51] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:53,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:53,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:53] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:55,247 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:55,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:55] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:57,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:57,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:57] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:07:59,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:07:59,245 - INFO - 127.0.0.1 - - [13/Oct/2026 14:07:59] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:01,242 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:01,242 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:01] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:03,247 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:03,248 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:03] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:05,245 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:05,246 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:05] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:07,241 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:07,241 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:07] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:09,242 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:09,243 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:09] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:11,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:11,243 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:11] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:13,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:13,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:13] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:15,247 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:15,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:15] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:17,246 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:17,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:17] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:19,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:19,245 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:19] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:21,238 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:21,238 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:21] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:23,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:23,245 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:23] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:25,245 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:25,246 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:25] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:27,252 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:27,253 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:27] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:29,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:29,243 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:29] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:31,248 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:31,249 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:31] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:33,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:33,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:33] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:35,242 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:35,242 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:35] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:37,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:37,243 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:37] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:39,242 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:39,243 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:39] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:41,247 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:41,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:41] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:43,246 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:43,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:43] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:45,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:45,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:45] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:47,240 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:47,241 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:47] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:49,242 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:49,242 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:49] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:51,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:51,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:51] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:53,248 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:53,249 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:53] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:55,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:55,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:55] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:57,248 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:57,249 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:57] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:08:59,245 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:08:59,246 - INFO - 127.0.0.1 - - [13/Oct/2026 14:08:59] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:01,245 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:01,246 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:01] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:03,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:03,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:03] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:05,248 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:05,249 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:05] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:07,248 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:07,248 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:07] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:09,245 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:09,245 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:09] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:11,246 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:11,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:11] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:13,242 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:13,243 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:13] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:15,247 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:15,248 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:15] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:17,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:17,243 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:17] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:19,246 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:19,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:19] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:21,248 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:21,248 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:21] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:23,248 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:23,248 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:23] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:25,241 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:25,242 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:25] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:27,246 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:27,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:27] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:29,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:29,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:29] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:31,245 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:31,245 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:31] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:33,246 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:33,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:33] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:35,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:35,245 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:35] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:37,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:37,243 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:37] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:39,242 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:39,242 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:39] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:41,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:41,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:41] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:43,251 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:43,251 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:43] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:45,246 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:45,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:45] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:47,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:47,245 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:47] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:49,247 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:49,248 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:49] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:51,246 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:51,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:51] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:53,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:53,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:53] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:55,247 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:55,248 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:55] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:57,246 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:57,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:57] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:09:59,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:09:59,245 - INFO - 127.0.0.1 - - [13/Oct/2026 14:09:59] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:01,239 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:01,240 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:01] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:03,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:03,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:03] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:05,248 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:05,249 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:05] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:07,249 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:07,250 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:07] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:09,247 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:09,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:09] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:11,242 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:11,242 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:11] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:13,250 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:13,251 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:13] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:15,243 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:15,243 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:15] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:17,246 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:17,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:17] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:19,242 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:19,243 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:19] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:21,248 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:21,249 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:21] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:23,250 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:23,251 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:23] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:25,248 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:25,248 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:25] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:27,245 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:27,245 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:27] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:29,247 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:29,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:29] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:31,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:31,245 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:31] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:33,242 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:33,243 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:33] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:35,246 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:35,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:35] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:37,242 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:37,242 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:37] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:39,244 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:39,244 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:39] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:41,242 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:41,243 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:41] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:43,247 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:43,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:43] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:45,247 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:45,248 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:45] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:47,247 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:47,248 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:47] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:49,248 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:49,249 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:49] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:51,247 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:51,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:51] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:53,246 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:10:53,247 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:53] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:10:55,252 - WARNING - Security Liveness Failure: Spoofing Detected: Lack of natural skin micro-texture (Screen/Photo spoof).
+2026-10-13 14:10:55,253 - INFO - 127.0.0.1 - - [13/Oct/2026 14:10:55] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:15:53,726 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:15:53,726 - INFO - 127.0.0.1 - - [13/Oct/2026 14:15:53] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:09,906 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:09,907 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:09] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:11,121 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:11,122 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:11] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:14,282 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:14,282 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:14] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:14,683 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:14,684 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:14] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:16,142 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:16,142 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:16] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:16,477 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:16,478 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:16] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:18,479 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:18,480 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:18] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:20,474 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:20,475 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:20] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:22,475 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:22,476 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:22] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:24,480 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:24,481 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:24] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:26,473 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:26,474 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:26] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:28,475 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:28,475 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:28] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:30,476 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:30,477 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:30] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:32,474 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:32,475 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:32] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:34,478 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:34,479 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:34] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:36,476 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:36,477 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:36] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:38,894 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:38,895 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:38] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:40,888 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:40,889 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:40] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:42,887 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:42,887 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:42] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:44,887 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:44,888 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:44] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:46,893 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:46,894 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:46] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:49,888 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:49,889 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:49] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:51,894 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:51,895 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:51] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:53,895 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:53,895 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:53] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:55,888 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:55,888 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:55] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:57,888 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:57,888 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:57] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:16:59,893 - ERROR - Error in verification API: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv_contrib\modules\xobjdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+2026-10-13 14:16:59,894 - INFO - 127.0.0.1 - - [13/Oct/2026 14:16:59] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:17:00,599 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\face ID\\services\\biometric.py', reloading
+2026-10-13 14:17:00,664 - INFO -  * Restarting with stat
+2026-10-13 14:17:01,061 - WARNING -  * Debugger is active!
+2026-10-13 14:17:01,064 - INFO -  * Debugger PIN: 433-048-674
+2026-10-13 14:17:01,897 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:17:01,897 - INFO - 127.0.0.1 - - [13/Oct/2026 14:17:01] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:17:03,896 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:17:03,896 - INFO - 127.0.0.1 - - [13/Oct/2026 14:17:03] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:17:05,890 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:17:05,891 - INFO - 127.0.0.1 - - [13/Oct/2026 14:17:05] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:17:07,891 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:17:07,891 - INFO - 127.0.0.1 - - [13/Oct/2026 14:17:07] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:02,911 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-10-13 14:18:02,912 - INFO - [33mPress CTRL+C to quit[0m
+2026-10-13 14:18:02,913 - INFO -  * Restarting with stat
+2026-10-13 14:18:03,304 - WARNING -  * Debugger is active!
+2026-10-13 14:18:03,306 - INFO -  * Debugger PIN: 433-048-674
+2026-10-13 14:18:04,477 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:04,478 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:04] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:06,889 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:06,889 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:06] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:08,475 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:08,476 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:08] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:10,475 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:10,475 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:10] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:11,412 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:11,412 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:11] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:12,471 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:12,472 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:12] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:23,699 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:23,699 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:23] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:25,699 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:25,700 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:25] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:27,701 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:27,701 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:27] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:28,356 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:28,357 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:28] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:29,399 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:29,400 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:29] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:29,697 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:29,697 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:29] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:29,992 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:29,993 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:29] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:30,197 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:30,197 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:30] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:30,386 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:30,386 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:30] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:30,562 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:30,563 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:30] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:30,727 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:30,728 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:30] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:30,939 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:30,939 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:30] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:31,700 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:31,700 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:31] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:33,699 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:33,699 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:33] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:35,698 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:35,698 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:35] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:37,697 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:37,697 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:37] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:39,697 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:39,698 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:39] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:41,702 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:41,702 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:41] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:43,699 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:43,700 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:43] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:45,700 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:45,701 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:45] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:47,696 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:47,696 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:47] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:49,699 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:49,700 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:49] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:51,699 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:51,699 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:51] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:53,698 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:53,698 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:53] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:55,700 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:55,701 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:55] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:57,700 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:57,700 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:57] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:18:59,699 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:18:59,699 - INFO - 127.0.0.1 - - [13/Oct/2026 14:18:59] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:01,699 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:01,700 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:01] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:03,697 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:03,698 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:03] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:05,698 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:05,699 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:05] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:07,699 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:07,699 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:07] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:09,703 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:09,703 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:09] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:11,698 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:11,699 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:11] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:13,701 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:13,701 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:13] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:15,699 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:15,700 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:15] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:17,696 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:17,697 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:17] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:19,703 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:19,704 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:19] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:21,699 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:21,699 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:21] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:23,703 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:23,703 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:23] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:25,697 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:25,697 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:25] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:27,699 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:27,699 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:27] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:29,696 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:29,697 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:29] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:31,699 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:31,700 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:31] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:33,698 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:33,699 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:33] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:35,891 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:35,891 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:35] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:37,888 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:37,889 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:37] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:39,890 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:39,890 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:39] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:41,889 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:41,889 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:41] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:43,888 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:43,889 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:43] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:46,891 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:46,892 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:46] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:48,892 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:48,893 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:48] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:50,889 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:50,890 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:50] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:52,892 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:52,892 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:52] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:54,894 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:54,895 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:54] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:56,897 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:56,897 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:56] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:19:58,888 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:19:58,889 - INFO - 127.0.0.1 - - [13/Oct/2026 14:19:58] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:20:00,897 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:20:00,898 - INFO - 127.0.0.1 - - [13/Oct/2026 14:20:00] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:20:02,891 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:20:02,891 - INFO - 127.0.0.1 - - [13/Oct/2026 14:20:02] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:20:04,888 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:20:04,889 - INFO - 127.0.0.1 - - [13/Oct/2026 14:20:04] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:20:06,893 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:20:06,893 - INFO - 127.0.0.1 - - [13/Oct/2026 14:20:06] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:20:08,894 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:20:08,894 - INFO - 127.0.0.1 - - [13/Oct/2026 14:20:08] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:20:10,891 - ERROR - Error in verification API: 'list' object has no attribute 'items'
+2026-10-13 14:20:10,891 - INFO - 127.0.0.1 - - [13/Oct/2026 14:20:10] "[35m[1mPOST /api/verify HTTP/1.1[0m" 500 -
+2026-10-13 14:20:11,076 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\face ID\\services\\biometric.py', reloading
+2026-10-13 14:20:11,130 - INFO -  * Restarting with stat
+2026-10-13 14:20:11,492 - WARNING -  * Debugger is active!
+2026-10-13 14:20:11,494 - INFO -  * Debugger PIN: 433-048-674
+2026-10-13 14:20:12,902 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:20:12,902 - INFO - 127.0.0.1 - - [13/Oct/2026 14:20:12] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:21:13,642 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-10-13 14:21:13,643 - INFO - [33mPress CTRL+C to quit[0m
+2026-10-13 14:21:13,643 - INFO -  * Restarting with stat
+2026-10-13 14:21:14,001 - WARNING -  * Debugger is active!
+2026-10-13 14:21:14,003 - INFO -  * Debugger PIN: 433-048-674
+2026-10-13 14:21:17,135 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:17] "GET / HTTP/1.1" 200 -
+2026-10-13 14:21:23,061 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:21:23,062 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:23] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:21:25,242 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:21:25,242 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:25] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:21:26,372 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:21:26,373 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:26] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:21:27,127 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:21:27,128 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:27] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:21:27,868 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:21:27,869 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:27] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:21:28,333 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:21:28,333 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:28] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:21:28,517 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:21:28,518 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:28] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:21:28,677 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:21:28,677 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:28] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:21:28,857 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:21:28,858 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:28] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:21:29,031 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:21:29,032 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:29] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:21:29,227 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:21:29,227 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:29] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:21:29,426 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:21:29,426 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:29] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:21:29,637 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:21:29,637 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:29] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:21:29,893 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:21:29,894 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:29] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:21:30,104 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:21:30,105 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:30] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:21:32,625 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:21:32,625 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:32] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:21:35,625 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:21:35,625 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:35] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:21:36,671 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:21:36,671 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:36] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:21:37,828 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:21:37,829 - INFO - 127.0.0.1 - - [13/Oct/2026 14:21:37] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:22:59,006 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-10-13 14:22:59,006 - INFO - [33mPress CTRL+C to quit[0m
+2026-10-13 14:22:59,007 - INFO -  * Restarting with stat
+2026-10-13 14:22:59,309 - WARNING -  * Debugger is active!
+2026-10-13 14:22:59,312 - INFO -  * Debugger PIN: 433-048-674
+2026-10-13 14:23:01,249 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:01] "GET / HTTP/1.1" 200 -
+2026-10-13 14:23:06,607 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:06,608 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:06] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:08,846 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:08,847 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:08] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:09,875 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:09,876 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:09] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:10,337 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:10,338 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:10] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:10,533 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:10,533 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:10] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:10,729 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:10,730 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:10] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:10,925 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:10,926 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:10] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:11,124 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:11,125 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:11] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:11,303 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:11,304 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:11] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:11,493 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:11,493 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:11] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:11,692 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:11,693 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:11] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:11,859 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:11,860 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:11] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:12,048 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:12,049 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:12] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:12,244 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:12,245 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:12] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:12,423 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:12,424 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:12] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:12,619 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:12,620 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:12] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:12,803 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:12,804 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:12] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:12,986 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:12,987 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:12] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:13,201 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:13,201 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:13] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:13,378 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:13,379 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:13] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:13,563 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:13,563 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:13] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:13,725 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:13,725 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:13] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:13,900 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:13,901 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:13] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:14,378 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:14,379 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:14] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:14,387 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:14,388 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:14] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:14,528 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:14,529 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:14] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:14,722 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:14,723 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:14] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:14,939 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:14,939 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:14] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:15,148 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:15,149 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:15] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:15,358 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:15,359 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:15] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:15,533 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:15,533 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:15] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:15,740 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:15,741 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:15] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:15,933 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:15,933 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:15] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:16,132 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:16,133 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:16] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:16,307 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:16,307 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:16] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:16,511 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:16,511 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:16] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:16,709 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:16,710 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:16] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:16,908 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:16,908 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:16] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:17,102 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:17,103 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:17] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:17,293 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:17,294 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:17] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:17,493 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:17,494 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:17] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:17,690 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:17,690 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:17] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:17,872 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:17,872 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:17] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:18,060 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:18,061 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:18] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:18,263 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:18,264 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:18] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:18,427 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:18,427 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:18] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:18,599 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:18,599 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:18] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:18,792 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:18,792 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:18] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:18,987 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:18,987 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:18] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:19,185 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:19,186 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:19] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:19,380 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:19,380 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:19] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:19,590 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:19,590 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:19] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:19,781 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:19,781 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:19] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:19,990 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:19,990 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:19] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:20,198 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:20,198 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:20] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:20,375 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:20,375 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:20] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:23,115 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:23,115 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:23] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:23:25,304 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:23:25,304 - INFO - 127.0.0.1 - - [13/Oct/2026 14:23:25] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:24:12,555 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:24:12,555 - INFO - 127.0.0.1 - - [13/Oct/2026 14:24:12] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:24:16,739 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:24:16,740 - INFO - 127.0.0.1 - - [13/Oct/2026 14:24:16] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:25:03,955 - WARNING - Security Alert: Unknown entity detected with score 0.00
+2026-10-13 14:25:03,955 - INFO - 127.0.0.1 - - [13/Oct/2026 14:25:03] "POST /api/verify HTTP/1.1" 200 -
+2026-10-13 14:27:13,007 - INFO - 127.0.0.1 - - [13/Oct/2026 14:27:13] "POST /api/register HTTP/1.1" 200 -
+2026-10-13 14:27:38,488 - INFO - 127.0.0.1 - - [13/Oct/2026 14:27:38] "POST /api/register HTTP/1.1" 200 -
+2026-10-13 14:28:18,336 - INFO - 127.0.0.1 - - [13/Oct/2026 14:28:18] "POST /api/register HTTP/1.1" 200 -
+2026-10-13 14:28:21,827 - INFO - 127.0.0.1 - - [13/Oct/2026 14:28:21] "POST /api/register HTTP/1.1" 200 -
+2026-10-13 14:28:28,810 - INFO - 127.0.0.1 - - [13/Oct/2026 14:28:28] "POST /api/register HTTP/1.1" 200 -
+2026-10-13 14:28:43,265 - INFO - 127.0.0.1 - - [13/Oct/2026 14:28:43] "POST /api/register HTTP/1.1" 200 -
+2026-10-13 14:28:45,768 - INFO - 127.0.0.1 - - [13/Oct/2026 14:28:45] "POST /api/register HTTP/1.1" 200 -
+2026-10-13 14:30:05,903 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\face ID\\app.py', reloading
+2026-10-13 14:30:05,964 - INFO -  * Restarting with stat
